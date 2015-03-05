@@ -13,14 +13,14 @@ cursor = conn.cursor()
 cursor.execute('create table user (id varchar(20) primary key, name varchar(20))')
 # >: <sqlite3.Cursor object at 0x10f8aa260>
 # 继续执行一条SQL语句，插入一条记录:
->>> cursor.execute('insert into user (id, name) values (\'1\', \'Michael\')')
-<sqlite3.Cursor object at 0x10f8aa260>
+cursor.execute('insert into user (id, name) values (\'1\', \'Michael\')')
+#<sqlite3.Cursor object at 0x10f8aa260>
 # 通过rowcount获得插入的行数:
->>> cursor.rowcount
-1
+cursor.rowcount
+#1
 # 关闭Cursor:
->>> cursor.close()
+cursor.close()
 # 提交事务:
->>> conn.commit()
+conn.commit()
 # 关闭Connection:
->>> conn.close()
+conn.close()
