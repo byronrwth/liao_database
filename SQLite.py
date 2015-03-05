@@ -10,7 +10,7 @@ conn = sqlite3.connect('test_sqlite3.db')
 # 创建一个Cursor:
 cursor = conn.cursor()
 # 执行一条SQL语句，创建user表:
-cursor.execute('create table user (id varchar(20) primary key, name varchar(20))')
+cursor.execute('create table user1 (id varchar(20) primary key, name varchar(20))')
 # >: <sqlite3.Cursor object at 0x10f8aa260>
 # 继续执行一条SQL语句，插入一条记录:
 cursor.execute('insert into user (id, name) values (\'1\', \'Michael\')')
