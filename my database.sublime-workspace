@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"had",
+				"Handover"
+			],
+			[
+				"Umts_RrcProc",
+				"Umts_RrcProcSecurityMode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SQLAlchemy.py",
+			"settings":
+			{
+				"buffer_size": 1741,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "part 6 - databases/flaskr.py",
+			"settings":
+			{
+				"buffer_size": 2924,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "part 6 - databases/flaskr_tests.py",
+			"settings":
+			{
+				"buffer_size": 2347,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "part 6 - databases/schema.sql",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"install ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"SIDEBAR",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax: c",
+				"Set Syntax: C"
+			],
+			[
+				"syntax:c",
+				"Set Syntax: C"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"setting user",
+				"Preferences: Settings - User"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/chengxi/Dropbox/python/liao/awesome-python-webapp/www/transwarp/__init__.py",
+		"/C/Users/chengxi/Dropbox/python/liao/awesome-python-webapp/backup/README",
+		"/C/Users/chengxi/Dropbox/python/liao/WebServiceGatewayInterface/hello.py",
+		"/C/Users/chengxi/Dropbox/python/liao/WebServiceGatewayInterface/server.py",
+		"/C/Users/chengxi/Dropbox/python/liao/socket/echo_client.py",
+		"/C/Users/chengxi/Dropbox/python/liao/awesome-python-webapp/.gitignore",
+		"/C/Users/chengxi/.ssh/id_rsa.pub",
+		"/C/Users/chengxi/Dropbox/python/liao/database/.git/config",
+		"/C/Users/chengxi/Dropbox/python/liao/MySQL.py",
+		"/C/Users/chengxi/Dropbox/python/flask/flasky/templates/index.html",
+		"/C/Users/chengxi/Links/ps_doc.lnk",
+		"/C/Users/chengxi/Dropbox/python/flask/flasky/templates/user.html",
+		"/C/Users/chengxi/Dropbox/python/flask/env/Lib/site-packages/flask-0.10.1-py2.7.egg/flask/testsuite/test_apps/moduleapp/apps/admin/templates/index.html",
+		"/C/Users/chengxi/Dropbox/python/flask/flasky/README.md",
+		"/C/Users/chengxi/Dropbox/python/flask/env/Lib/site-packages/flask-0.10.1-py2.7.egg/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html",
+		"/C/Users/chengxi/Dropbox/python/flask/env/Lib/site-packages/flask-0.10.1-py2.7.egg/flask/testsuite/test_apps/blueprintapp/apps/admin/templates/admin/index.html",
+		"/C/Users/chengxi/Dropbox/python/flask/env/Lib/site-packages/flask-0.10.1-py2.7.egg/flask/testsuite/static/index.html",
+		"/C/Users/chengxi/Dropbox/python/flask/flasky/manage.py",
+		"/C/Users/chengxi/Dropbox/python/flask/flask-bootstrap-master/flask-bootstrap-master/sample_application/templates/index.html",
+		"/C/Python27/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/frontend/templates/index.html",
+		"/C/Python27/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html",
+		"/C/Python27/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/templates/admin/index.html",
+		"/C/Python27/Lib/site-packages/flask/testsuite/static/index.html",
+		"/C/Python27/Lib/site-packages/django/contrib/admin/templates/admin/index.html",
+		"/C/Python27/Lib/site-packages/django/contrib/admin/templates/admin/app_index.html",
+		"/C/Users/chengxi/Dropbox/python/flask/flasky/LICENSE",
+		"/C/Users/chengxi/Dropbox/python/flask/flasky/hello.py",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/Readme",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_Scn_UeMobileOriginatingCallDCH.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_RrcProc_SendSystemInformation_csbarred.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_Scn_BSSysInfoBroadcast_csbarred.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_BsCPHYCellConfigReq_cell1_10562.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_Scn_BsCellSetupDch_cell1_10562.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_BsCPHYCellConfigReq_cell2_10838.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_Scn_BsCellSetupDch_cell2_10838.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_RrcRadioBearerReconfigurationSrnsRelocation.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_BsCrlcCipheringActivateUlRbId4Req.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_BsCrlcCipheringActivateUlRbId3Req.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45_Sriram/Umts_RrcRadioBearerEstPsPlusCsCall.xml",
+		"/S/Dev_05Feb/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/xmm7360_cps_comp_3gpp_gen_uas_swift_tcs.txt",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T45/Umts_RrcSysInfoType3.xml",
+		"/U/20SPS_dev/modem/swift_tcs/representative_tcs/XMM7360/DB_DC_HSDPA/usr_xml/TC_DBDCHSDPA_3_1_1/Umts_BsCphyTrchConfigCellDchEdch2FlowIdReq.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/lte_uas_rel11_testcaselist.h",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/lte_uas_rel11_testcaselist.c",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_RrcSysInfoType19_GSM_Treselection.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_RrcSysInfoType11.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_RrcSysInfoType4_6221.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_RrcSysInfoType3_6221.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_BsCphyTxPowerModifyReq_ServingCell.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Gsm_Rr_SystemInformationType6Cell4_T35.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Gsm_Rr_SystemInformationType4Cell4_T35.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Gsm_Rr_SystemInformationType3Cell4_T35.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_BsCphyTxPowerModifyReq_123.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/GAS/tc_lte_gas_rel11.c",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Gsm_RrProc_SendSystemInformationGsmCell4_T35.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_RrcProc_SendSystemInformation_IRAT.xml",
+		"/U/20SPS_dev/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T35/Umts_RrcSysInfoType11_GSM.xml",
+		"/S/commit_T10/modem/swift_tcs/representative_tcs/XMM7360/FE_FACH_XFT/usr_xml/TC_FEFACH_2_3_1_2/Umts_FeFachProcReselectToGeran.xml",
+		"/S/commit_T10/modem/swift_tcs/representative_tcs/XMM7360/FE_FACH_XFT/usr_xml/TC_FEFACH_2_3_1_2/Gsm_Scn_UeLocationUpdate.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/backup/Umts_RrcProcRrcConnectionEstablishment_R11_T10_START_0xFFFFE.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_GmmAuthAndCiphRes_SIM.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_MmAuthenticationResp_SIM.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_MmProcAuthentication_SIM.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10_test/Umts_Scn_UeRegistrationDefault_R11_T10_START_0xFFFFE.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10_test/T_CPS_NVM_DYN_VER2_REV0.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10_test/Umts_RrcConnectionSetupComplete_R11_T10_psSTARTreset.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10_test/Umts_RrcConnectionSetupR99CellDch_SIM.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10_test/Umts_RrcProcRrcConnectionEstablishment_R11_T10_START_0xFFFFE.xml",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10_test/Umts_RrcConnectionSetupComplete_R11_T10_START_0xFFFFE.xml",
+		"/S/07Jan_SIM/modem/app_regitcs_src/asc/swift_uas_r11.asc",
+		"/S/07Jan_SIM/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/tc_lte_uas_rel11.c",
+		"/S/2015Jan_7360/modem/system-build/regi/tools/Linux/xmm7360/BuildLogs/3gFwGen.log",
+		"/S/2015Jan_7360/modem/system-build/regi/tools/Linux/xmm7360/BuildLogs/netSimBuild.log",
+		"/S/2015Jan_7360/modem/system-build/regi/tools/Linux/xmm7360/BuildLogs/sdlGen.log",
+		"/S/Blue7360/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/nvm_settings.xml",
+		"/S/2015Jan_7360/modem/system-build/regi/result/linux/logs/regi_verdict_reg_high_xmm7360.txt",
+		"/S/2015Jan_7360/modem/system-build/regi/result/linux/logs/PSTrace_reg_high_xmm7360.istp",
+		"/S/Blue7360/modem/system-build/regi/result/linux/logs/SwiftTrace_reg_high_xmm7360.swl",
+		"/Z/.bashrc.private",
+		"/S/Blue7360/modem/system-build/regi/result/linux/logs/BSTrace_reg_high_xmm7360.rep",
+		"/S/7360regression_16dec/modem/swift_tcs/cbe_swifttcs.mk",
+		"/S/7360regression_16dec/modem/swift_tcs/test_component_config.h",
+		"/S/7360_Dec/modem/app_regitcs_src/asc/swift_uas_r11.asc",
+		"/S/7360_Dec/modem/app_regitcs_src/asc/2.asc",
+		"/Q/0111/modem/app_regitcs_src/asc/swift_uas_r11.asc",
+		"/U/0409green/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/lte_uas_rel11_testcaselist.h",
+		"/U/0409green/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/lte_uas_rel11_testcaselist.c",
+		"/C/Users/chengxi/AppData/Roaming/Sublime Text 2/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+		"/U/0409green/modem/system-build/regi/result/linux/logs/regi_verdict_reg_high_xmm7260_r11.txt",
+		"/U/0409green/modem/system-build/regi/result/linux/logs/Direg_high_xmm7260_r11.rep",
+		"/U/0409green/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T31/Umts_RrcMasterInformationBlock_T31.xml",
+		"/U/0409green/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T31/Umts_RrcSystemInformationChangeIndication_T31.xml",
+		"/U/1908_Green_Tc25/modem/system-build/regi/result/linux/logs/BSTrace_reg_high_xmm7260_r11.rep",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_Scn_UeRegistrationDefault_R11_T10_START0xE0xFF0xFF.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_RrcProcRrcConnectionEstablishment_R11_T10_START0x1.xml",
+		"/U/1908_Green_Tc25/modem/app_regi_src/unitest/swift/api/tcs/umts/rrc/msg/ut_umts_rrc_msg.c",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_RrcConnectionSetupComplete_R11_T10_START0x1.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_Scn_UeRegistrationDefault_R11_T10_START0x0.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/tc_lte_uas_rel11.c",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T13/Umts_RrcRadioBearerReconfiguration_T13_nosrns.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_Scn_UeRegistrationDefault_R11_T10.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_RrcProcRrcConnectionEstablishment_R11_T10_START0x0.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_RrcConnectionSetupComplete_R11_T10_START0x2.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_RrcProcRrcConnectionEstablishment_R11_T10_START0x2.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_RrcConnectionSetupR99CellDch_SIM.xml",
+		"/U/1908_Green_Tc25/modem/ps_uas_src/design/ue-rrc/unitest/urrcbp/csg/urrcbp_csg_asf_and_reselection.unt",
+		"/U/1908_Green_Tc25/modem/msw_hosttest/urrc/build/Linux/unitest_urrcbp.log",
+		"/U/1908_Green_Tc25/modem/ps_uas_src/design/ue-rrc/unitest/urrcbp/cell_reselection/urrcbp_irat_reselection.unt",
+		"//mucsdn24.imu.intel.com/arts-cm/arts_test_data/transfer/cussonne_pdb_xmm7260_v3_uas_pcqg_d_UID141002073911/0-2-15-URRC_UnitestXT_Linux_Run_BP_TCs/unitest_urrcbp.log",
+		"/U/7360/modem/ps_uas_src/design/ue-rrc/unitest/urrcbp/cell_reselection/urrcbp_irat_reselection.unt",
+		"/U/0409green/modem/tbarr_time.log",
+		"/U/7360/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/lte_uas_rel11_testcaselist.c",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/lte_uas_rel11_testcaselist.h",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/t13.c",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_RrcConnectionSetupComplete_R11_T10_psSTARTrecalculated_0x2.xml",
+		"/U/1908_Green_Tc25/modem/app_regitcs_src/asc/swift_uas_r11.asc",
+		"/U/1908_Green_Tc25/modem/system-build/regi/result/linux/logs/SwiftTrace_reg_high_xmm7260_r11.swl",
+		"/U/1908_Green_Tc25/modem/app_regitcs_src/sim/3gsim0.uicc",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/nvm_settings.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/T_CPS_NVM_DYN_VER2_REV0.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/sim1.sim",
+		"/U/1908_Green_Tc25/modem/swift_tcs/sim/Swift_Sim3gsim0_TC_UAS_REL11_T7.uicc",
+		"/U/1908_Green_Tc25/modem/app_regi_src/src/swift/api/irat/common/security/Irat_Security.c",
+		"/U/1908_Green_Tc25/modem/app_regi_src/unitest/swift/api/tcs/umts/nas/msg/ut_umts_nas_msg.c",
+		"/U/1908_Green_Tc25/modem/app_regi_src/src/swift/api/umts/common/db/Swift_UTRA_Database.c",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_GmmAuthAndCiphRes.xml",
+		"/U/1908_Green_Tc25/modem/swift_tcs/cps_comp_tcs/XMM7360/3GPP_GEN_XFT/UAS/XML/TC_UAS_REL11_T10/Umts_GmmAuthAndCiphRes_SIM.xml"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"U:\\1908_Green_Tc25\\modem\\ps_uas_src\\design\\ue-rrc\\unitest\\",
+			"U:\\1908_Green_Tc25\\modem"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"relationship",
+			"\n	",
+			"moment",
+			"new_u_rnti",
+			"rrcradiobearerest",
+			"rrcradiobearer",
+			"rrcradiobearerestpspluscscall",
+			"Umts_Proc_RrcPhysicalChannelReconfiguration",
+			"TC_UAS_REL11_T45_Sriram",
+			"T_DLY",
+			"Umts_Msg_Recv_RrcConnectionRequest",
+			"t45",
+			"release",
+			"Umts_Msg_Recv_RrcConnectionRequest",
+			"CellContext_SetServingCell",
+			"Umts_CellContext_SetServingCell",
+			"release",
+			"t10",
+			"release",
+			"Umts_Msg_Send_MmAuthenticationReq",
+			"SwiftDB_UTRA_Set_Start",
+			"Configuring new Start Value in the BS local end and configring downlink and uplink ciphering",
+			"pdp",
+			"Umts_InitTestCase",
+			"Umts_Msg_Recv_RrcRadioBearerReconfigurationComplete",
+			"px_cn_",
+			"inittestcase",
+			"10",
+			"Umts_Scn_BSSysInfoBroadcast",
+			"Umts_Scn_BSCellSetup",
+			"Umts_Msg_Recv_RrcConnectionRequest",
+			"rrccon",
+			"cs_domain",
+			"ps",
+			"srns",
+			"t35",
+			"t33",
+			"t4",
+			"criteria",
+			"priority_value",
+			"cellid",
+			"GSM_CELL2",
+			"gsm_cell",
+			"t36A",
+			"lower priority",
+			"t20",
+			"t17",
+			"t20",
+			"gsm_Scn_BSCellSetup",
+			"t20",
+			"Gsm_Proc_InitTestCase",
+			"gsm",
+			"41974",
+			"41980",
+			"41974",
+			"gprs",
+			"kc-gp",
+			"kc",
+			"t10",
+			"error",
+			"module",
+			"t10",
+			"CVIEW",
+			"CURR_UE_INDEX",
+			"sec_init",
+			"Umts_Sec_Init",
+			"t10",
+			"Umts_Sec_AllKeysGen",
+			"t10",
+			"T7",
+			"FFFFE",
+			"t10",
+			"FWK_SET_XMLTREE_VALUE",
+			"FWK_GET_XMLTREE_VALUE",
+			"HTML",
+			"FWK_LOG",
+			"***********/\n",
+			"error",
+			"xmlFileNameToCall",
+			"error",
+			"t13",
+			"start",
+			"key",
+			"start",
+			"t7",
+			"SwiftDB_UTRA_Get_Start",
+			"t13",
+			"f-dpch",
+			"fdpch",
+			"CphyRlSetupFdpchReq",
+			"CphyRlSetupFdpch",
+			"CphyRlSetupFdpchReq",
+			"bscphyrl",
+			"t13",
+			"Umts_Proc_BsCphyRlSetup",
+			"RrcRad",
+			"-- Actual value DPCH-FrameOffset = IE value * 256\nRadioBear",
+			"-- Actual value DPCH-FrameOffset = IE value * 256\nRadioBearer",
+			"RadioBearer",
+			"-- Actual value DPCH-FrameOffset = IE value * 256radiobearer",
+			"-- Actual value DPCH-FrameOffset = IE value * 256\nrrcradiobearer",
+			"t25",
+			"error",
+			"tbarr_time",
+			"t10",
+			"Umts_Proc_RrcConnectionEst",
+			"13",
+			"25",
+			"t13",
+			"Umts_Proc_BsCphyTrChConfig",
+			"Umts_Proc_BsCphyRlSetup",
+			"start",
+			"keys",
+			"start",
+			"error",
+			"SwiftDB_UTRA_Set_Xres",
+			"t10",
+			"PRIM_RLC_AM_DATA_IND",
+			"p_rrcXmlTree",
+			"v_msgXmlTreev_msgXmlTree",
+			"p_CellId",
+			"v_msgXmlTree",
+			"Umts_Msg_Send_RrcSecurityModeCommand",
+			"p_CellId",
+			"p_UmtsRrcProcXmlFile",
+			"xmlFileNameToCallxmlFileNameToCall",
+			"p_UmtsRrcProcXmlFile",
+			"p_storedMsg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SQLAlchemy.py",
+					"settings":
+					{
+						"buffer_size": 1741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1693,
+								1693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "part 6 - databases/flaskr.py",
+					"settings":
+					{
+						"buffer_size": 2924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "part 6 - databases/flaskr_tests.py",
+					"settings":
+					{
+						"buffer_size": 2347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "part 6 - databases/schema.sql",
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 205.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.git":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"awesome-python-webapp/.gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/chengxi/Dropbox/python/flask/flask.sublime-project"
+			]
+		],
+		"width": 741.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
